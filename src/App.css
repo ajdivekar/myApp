@@ -1,0 +1,15 @@
+.dropdownSection {
+  padding: 15px;
+  background-color: lightgray;
+  /* margin: 0 auto; */
+  display: flex;
+  justify-content: center;
+}
+.chartSection {
+  display: flex;
+  justify-content: center;
+
+}
+.chartItem {
+  width: 50%;
+}

@@ -1,0 +1,26 @@
+[
+    {
+    "countryId":1,
+    "countryName":"India",
+    "population":123456,
+    "currency":"INR"
+    },
+    {
+    "countryId":2,
+    "countryName":"US",
+    "population":3456,
+    "currency":"$"
+    },
+    {
+    "countryId":3,
+    "countryName":"Russia",
+    "population":1234,
+    "currency":"Rubal"
+    },
+    {
+    "countryId":4,
+    "countryName":"China",
+    "population":1234565,
+    "currency":"Yuan"
+    }
+]
